@@ -9,10 +9,10 @@ export default function Navbar() {
                 </div>
                 <div className="column right1">
                     <nav >
-                    <a href="#"> Home </a>
-                    <a href="#"> About </a>
-                    <a href="#"> Services </a>
-                    <a href="#"> Contact </a>
+                    <a href="/"> Home </a>
+                    <a href="/"> About </a>
+                    <a href="/"> Services </a>
+                    <a href="/"> Contact </a>
                     </nav>
                 </div>
             </div>
